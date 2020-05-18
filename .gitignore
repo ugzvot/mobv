@@ -2,3 +2,12 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+
+
+# R Environment Variables
+.Renviron
+
+# RStudio Project Files
+.Rproj.user
+*.Rproj
+.Rhistory

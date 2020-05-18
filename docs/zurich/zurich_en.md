@@ -23,6 +23,10 @@ The vertical patterns in the heatmap and charts show how overall relative mobili
 
 <div class="wide" id="visLinkedFoot"></div>
 
+# Motorised Activity
+
+<div class="wide" id="visLinkedMiv"></div>
+
 ## Data sources and implementation
 
 We wouldn't have been able to implement our visualizations without the [Open Government Data of the City of Zurich](https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo). Thanks also to the [Department of Civil Engineering](https://www.stadt-zuerich.ch/ted/de/index/taz.html) for collecting the data and making them available as open data together with the [Open Data Zurich Team](https://www.stadt-zuerich.ch/portal/de/index/ogd.html) at the [Statistics Office of the City of Zurich](https://www.stadt-zuerich.ch/prd/de/index/statistik.html) as well as [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) for the mapping data.

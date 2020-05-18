@@ -37,5 +37,10 @@ Konzeptiert und implementiert von:
 
 <div class="wide" id="visLinkedFoot"></div>
 
+# Motorisierten Individualverkehr
+
+<div class="wide" id="visLinkedMiv"></div>
+
+
 <!-- Script containing the vis specs used above. Must be at end of document. -->
 <script src="js/zurichVisSpecs.js"></script>

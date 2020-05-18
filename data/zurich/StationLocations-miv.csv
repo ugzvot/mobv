@@ -1,0 +1,95 @@
+station_id,station_name,description,lat,lon
+Z001,Seestrasse (Strandbad Wollishofen),,47.341059,8.537068
+Z002,Albisstrasse (Widmerstrasse),,47.334167,8.529921
+Z003,Sood-/Leimbachstrasse,,47.332547,8.517891
+Z004,Birmensdorferstrasse (Triemli),,47.36779,8.494623
+Z005,Albisriederstrasse (Lyrenweg),,47.374504,8.482991
+Z006,Badenerstrasse (Hermetschloobrücke),,47.393996,8.47211
+Z007,Bernerstrasse (Hermetschloobrücke),,47.398163,8.473629
+Z008,Limmattalstrasse (Frankentalerstrasse),,47.405242,8.480484
+Z009,Regensdorferstrasse (Frankentalerstrasse),,47.415956,8.483376
+Z010,Wehntalerstrasse (Zehntenhausplatz),,47.419842,8.504437
+Z011,Glattalstrasse (Kolbenackerstrasse),,47.426307,8.547141
+Z012,Schaffhauserstrasse (Glatttalstrasse),,47.423557,8.551813
+Z013,Thurgauerstrasse (Schärenmoosstrasse),,47.419957,8.555932
+Z014,Weststrasse (Ueberlandstrasse),,47.409109,8.579939
+Z015,Neue Winterthurerstrasse (Ueberlandstrasse),,47.406416,8.591564
+Z016,Ueberlandstrasse (Neue Winterthurerstrasse),,47.405639,8.591338
+Z017,Dübendorfstrasse (Altwiesenstrasse),,47.398129,8.592177
+Z018,Tobelhof-/Dreiwiesenstrasse,,47.378526,8.574966
+Z019,Witikonerstrasse (Katzenschwanzstrasse),,47.360837,8.598651
+Z020,Forchstrasse (Witellikerstrasse),,47.353913,8.575559
+Z021,Bellerivestrasse (Bahnhof Tiefenbrunnen),,47.348997,8.561825
+Z022,Allmendstrasse (Brunau),,47.347189,8.519878
+Z025,Europabrücke (Winzerstrasse),,47.399283,8.495215
+Z026,Rosengartenstrasse (Röschibachstrasse),,47.392198,8.523599
+Z027,Wipkingerbrücke,,47.392575,8.524227
+Z028,Kornhausbrücke,,47.386869,8.534803
+Z029,Walchebrücke,,47.378622,8.542352
+Z030,Rudolf Brun-Brücke,,47.374395,8.542737
+Z031,Quaibrücke,,47.36687,8.542754
+Z032,Binzmühlestrasse (Thurgauerstrasse),,47.414257,8.550537
+Z033,Milchbucktunnel (Südportal),,47.385645,8.537517
+Z034,Emil Klöti-Strasse (Gsteigstrasse),,47.40568,8.50447
+Z035,Gutstrasse (Burstwiesenstrasse),,47.372593,8.505074
+Z036,Schweighofstrasse (Hägelerweg),,47.367974,8.501528
+Z037,Bergstrasse (Schneckenmannstrasse),,47.375159,8.560474
+Z038,Rosengartenstrasse (Nordstrasse),,47.394893,8.525735
+Z039,Hardbrücke (SBB PJZ),,47.383185,8.515117
+Z040,Seebahnstrasse (Kalkbreitestrasse),,47.373826,8.519519
+Z041,Gessnerallee (Usteribrücke),,47.375868,8.535485
+Z042,Limmatquai (Rudolf-Brun-Brücke),,47.374585,8.543002
+Z043,Seilergraben (Mühlegasse),,47.373763,8.546538
+Z044,Uraniastrasse (Bahnhofstrasse),,47.374583,8.538706
+Z045,Talstrasse (Pelikanstrasse),,47.370631,8.535347
+Z046,Zeltweg (Merkurstrasse),,47.366733,8.553433
+Z047,Hottingerstrasse (Freiestrasse),,47.369153,8.555966
+Z048,Rämistrasse (Stadelhoferstrasse),,47.367967,8.546355
+Z049,Bahnhofbrücke,,47.376808,8.543094
+Z050,Europabrücke (Max Högger- und Würzgrabenstrasse),,47.393129,8.492942
+Z051,Seebacherstrasse (Binzmühlestrasse),,47.414681,8.520535
+Z052,Hirschwiesentunnel,,47.398385,8.537913
+Z053,Birchstrasse (Eichraintunnel),,47.429626,8.549273
+Z054,Rämistrasse (Kantonsschul- und Zürichbergstrasse),,47.372749,8.550298
+Z055,Höschgasse (Zollikerstrasse),,47.359406,8.557611
+Z056,Zollikerstrasse (Höschgasse),,47.359092,8.558097
+Z057,Stockerstrasse (Dreikönigstrasse),,47.367051,8.535047
+Z058,Stampfenbachstrasse (Wasserwerkstrasse),,47.380524,8.542782
+Z059,Neumühlequai (Sanität),,47.381456,8.540934
+Z060,Hermetschloobrücke,,47.397801,8.47455
+Z061,Duttweiler Brücke,,47.389578,8.511738
+Z062,Brunaustrasse (Rieterstrasse),,47.354343,8.525969
+Z063,Albisriederstrasse (Hubertus),,47.37747,8.499435
+Z064,Gutstrasse (Hubertus),,47.376522,8.499916
+Z065,Hardturmstrasse (Fischerweg),,47.391709,8.518897
+Z066,Stauffacherstrasse (Feldstrasse),,47.377702,8.521977
+Z067,Manessestrasse (Stauffacherquai),,47.369305,8.527265
+Z068,Schimmelstrasse (Werdstrasse),,47.370216,8.524963
+Z069,Seebahnstrasse (Stauffacherstrasse),,47.378786,8.519671
+Z070,Hohlstrasse (Erismannstrasse),,47.38054,8.519595
+Z071,Badenerstrasse (Zypressenstrasse),,47.376922,8.513623
+Z072,Manessestrasse (Weststrasse),,47.36897,8.524902
+Z073,Stauffacherbrücke,,47.371157,8.530596
+Z074,Stauffacherquai (Stauffacherbrücke),,47.371454,8.530506
+Z075,Stauffacherstrasse (Stauffacherbrücke),,47.371151,8.530615
+Z076,Pfingstweidstrasse (Sportweg),,47.391673,8.505316
+Z077,Sihlhölzlibrücke (Ulmbergtunnel),,47.368827,8.528659
+Z078,Birmensdorferstrasse (Wasserschöpfi),,47.369374,8.505346
+Z079,A3W (A4 Uetlibergtunnel Brunau),,47.347115,8.520002
+Z080,A3W (Chur Brunau),,47.347055,8.520122
+Z081,Pfingstweidstrasse (Welti Furrer Ausfahrt),,47.388055,8.517445
+Z082,Hardbrücke (Hardstrasse),,47.383162,8.515165
+Z083,Hardbrücke Rampen (Hohlstrasse),,47.383457,8.515613
+Z084,Angererstrasse Tunnelstrasse (Ulmbergtunnel),,47.366563,8.531836
+Z085,Alfred-Escher-Strasse (Ulmbergtunnel),,47.366555,8.531743
+Z086,Binzmuehlestrasse (Seebacherstrasse),,47.414559,8.520497
+Z087,Wehntalerstrasse (Nordheimstrasse),,47.404224,8.53388
+Z088,Regensbergstrasse (Birchstrasse),,47.409668,8.537424
+Z089,Wallisellenstrasse (Saatlenstrasse),,47.410869,8.563156
+Z090,Winterthurerstrasse (Luchswiesenstrasse),,47.406551,8.584212
+Z091,Dreikönigstrasse (Genferstrasse),,47.366043,8.53352
+Z092,Am Wasser (Hardeggstrasse),,47.397238,8.503033
+Z093,Hardturmstrasse (Bernoullihäuser),,47.393792,8.508304
+Z095,Schwamendingerstrasse (Dörflistrasse),,47.406733,8.551021
+Z096,Katzenschwanzstrasse (Witikonerstrasse),,47.360546,8.596774
+Z097,Hofwiesenstrasse (Brunnenhofweg),,47.401226,8.534499
